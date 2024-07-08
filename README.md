@@ -10,10 +10,9 @@ In this challenge I organized and analyzed a database of 1,000 sample Kickstarte
 To tackle this challenge I...
 
 1. Read and decoded the requirements of the assignment.
-2. Wrote (commented) the steps and processes needed to accomplish the goals of the assignment.
+2. Wrote the steps and processes needed to accomplish the goals of the assignment.
 3. Looked back at Bootcamp class activites to find code to accomplish processes.
-4. Researched the resources listed below to find addtional, or more elegant, code.
-5. Debugged and resubmitted code.
+4. Researched the resources listed below to get help with Pivot Tables, Countif functions and converting timestamps.
    
 
 
@@ -21,15 +20,11 @@ To tackle this challenge I...
 ## Resources
 
 
-+ https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-conceptual-topics   
++ [https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-conceptual-topics](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)
 
-+ ChatGPT
-   
-+ AskBCS Learning Assistant
-   
-+ Stack Overflow
-   
-+ Github (Reviewed previous VBA Challenges)
++ https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html
+
++ https://support.microsoft.com/en-us/excel  
 
 
 
@@ -38,9 +33,7 @@ To tackle this challenge I...
 
 ## Table of Contents
 
-1. Screenshot Quarter 1 Results
-2. Screenshot Quarter 2 Results
-3. Screenshot Quarter 3 Results
-4. Screenshot Quarter 4 Results
+1. Crowdfunding Spreadsheet
+2. Crowdfunding Written Analysis
 5. ReadMe
-6. vba_challenge code attempt 2
+
