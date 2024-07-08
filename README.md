@@ -11,7 +11,7 @@ To tackle this challenge I...
 
 1. Read and decoded the requirements of the assignment.
 2. Wrote the steps and processes needed to accomplish the goals of the assignment.
-3. Looked back at Bootcamp class activites to find code to accomplish processes.
+3. Looked back at Bootcamp class activites to find methods to accomplish processes.
 4. Researched the resources listed below to get help with Pivot Tables, Countif functions and converting timestamps.
    
 
@@ -39,7 +39,8 @@ To tackle this challenge I...
 
 
 ## Skills
-+ Conditional Formating 
++ Conditional Formating
++ Countif, Vlookup, and Timestamp Functions
 + Pivot Table 
 + Statistical Analysis 
 
