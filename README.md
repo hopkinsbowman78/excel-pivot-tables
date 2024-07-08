@@ -4,6 +4,7 @@ In this challenge I organized and analyzed a database of 1,000 sample Kickstarte
 
 
 
+
 ## Synopsis of Process
 
 To tackle this challenge I...
@@ -30,3 +31,16 @@ To tackle this challenge I...
    
 + Github (Reviewed previous VBA Challenges)
 
+
+
+
+
+
+## Table of Contents
+
+1. Screenshot Quarter 1 Results
+2. Screenshot Quarter 2 Results
+3. Screenshot Quarter 3 Results
+4. Screenshot Quarter 4 Results
+5. ReadMe
+6. vba_challenge code attempt 2
