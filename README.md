@@ -37,3 +37,9 @@ To tackle this challenge I...
 2. Crowdfunding Written Analysis
 5. ReadMe
 
+
+## Skills
++ Conditional Formating 
++ Pivot Table 
++ Statistical Analysis 
+
