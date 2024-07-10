@@ -21,7 +21,7 @@ To tackle this challenge I...
 ## Resources
 
 
-+ [https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-conceptual-topics](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)
++ https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842
 
 + https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html
 
