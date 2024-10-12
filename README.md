@@ -36,7 +36,8 @@ To tackle this challenge I...
 
 1. Crowdfunding Spreadsheet
 2. Crowdfunding Written Analysis
-5. ReadMe
+3. Module 1 Excel Challenge (Original Challenge Requirements)
+4. ReadMe
 
 
 ## Skills
